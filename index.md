@@ -78,7 +78,7 @@
 
 <br><br>
 # [ 키보드 이벤트에 대한 흐름도 ] <a name='3'></a>
-<img src="img/22.png">
+<img src="img/23.png">
 
 
 <br><br>
