@@ -113,24 +113,24 @@
 |지능|int|스킬 포인트+1|
 |카리스마|chr|부대한계치+1|
 |스킬 단단한피부|skiIronSkin|1점당 체력+2|
-|스킬 강타
-|스킬 던지는힘
-|스킬 당기는힘
-|스킬 무기의달인
-|스킬 방패술
-|스킬 운동능력
-|스킬 훈련교관
-|스킬 설득
-|스킬 항해
-|스킬 수술
-|스킬 상술
-|스킬 리더쉽
-|숙련도 한손무기
-|숙련도 양손무기
-|숙련도 폴암
-|숙련도 투척무기
-|숙련도 활
-|숙련도 석궁
+|스킬 강타|skiStrike|1점당 근접공격력+8%|
+|스킬 던지는힘|skiThrowStr|1점당 투척무기공격력+10%|
+|스킬 당기는힘|skiBowStr|1점당 활공격력+14%
+|스킬 무기의달인|skiWeaponMaster|
+|스킬 방패술|skiShield|
+|스킬 운동능력|skiSpeed|
+|스킬 훈련교관|skiTrainer|
+|스킬 설득|skiSpeech|
+|스킬 항해|skiSeaDrive|
+|스킬 수술|skiHeal|
+|스킬 상술|skiTrade|
+|스킬 리더쉽|skiLeadership|
+|숙련도 한손무기|skiOnehanded|
+|숙련도 양손무기|skiTwohanded|
+|숙련도 폴암|skiSpear|
+|숙련도 투척무기|skiThrow|
+|숙련도 활|skiBow|
+|숙련도 석궁|skiCrossbow|
 ## 3. 행동
 ## 4. 상태
 ## 5. 플레이어 캐릭터 속성
