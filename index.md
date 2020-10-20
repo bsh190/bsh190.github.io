@@ -64,5 +64,4 @@
 - [![](http://img.youtube.com/vi/pXZo8EE7X7M/0.jpg)](http://www.youtube.com/watch?v=pXZo8EE7X7M "tundraConceptVideo")
 
 # 3 [ 대표 이미지 ]<a name='3'></a>
-- 이미지의 날씨 느낌과 플레이어 1인칭 뷰 그리고 환경 오브젝트의 배치를 바탕으로 관련 이미지로 선정했습니다.
-- <img src="img/tundraConcpetImage1.jpg">
+- <img src="img/tundraImage.png">
