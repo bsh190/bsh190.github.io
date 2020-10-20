@@ -66,5 +66,6 @@
 ## 1. 시작 화면
 - <img src="img/tundraImage.png">
 ## 2. 설정 화면
+- <img src="img/tundraSetting.png">
 ## 3. 게임 화면
 ## 4. 점수 화면
