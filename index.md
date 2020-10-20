@@ -287,3 +287,4 @@ y+=sin(dir+fowr)*spd
 <img src="img/wordlist.png">
 
 # [ 개발 작업 ]<a name='9'></a>
+<img src="img/devtimetable.png">
