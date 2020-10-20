@@ -284,6 +284,6 @@ y+=sin(dir+fowr)*spd
 <img src="img/keyboard.png">
 
 # [ 용어 정리 ]<a name='8'></a>
-- <img src="img/wordlist.png">
+<img src="img/wordlist.png">
 
 # [ 개발 작업 ]<a name='9'></a>
