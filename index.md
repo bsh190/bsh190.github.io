@@ -281,7 +281,7 @@ y+=sin(dir+fowr)*spd
 - 나머지 뒷부분으로는 게임 배경이 보인다.
 
 # [ 키보드 이벤트에 대한 흐름도 ]<a name='7'></a>
-
+<img src="img/keyboard.png">
 # [ 용어 정리 ]<a name='8'></a>
 
 # [ 개발 작업 ]<a name='9'></a>
