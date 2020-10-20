@@ -118,25 +118,25 @@
 |스킬 단단한피부|skiIronSkin|1점당 체력+2|
 |스킬 강타|skiStrike|1점당 근접공격력+8%|
 |스킬 던지는힘|skiThrowStr|1점당 투척무기공격력+10%|
-|스킬 당기는힘|skiBowStr|1점당 활공격력+14%
-|스킬 무기의달인|skiWeaponMaster|1점당 숙련도 한계치+40
-|스킬 방패술|skiShield|1점당 방패가 받는 피해-8%
-|스킬 운동능력|skiSpeed|1점당 이동속도 증가
-|스킬 훈련교관|skiTrainer|1점당 플레이어의 부대원이 받는 경험치가 증가
-|스킬 설득|skiSpeech|1점당 설득의 성공 확률 증가
-|스킬 항해|skiSeaDrive|1점당 바다에서의 선박 이동 속도 증가
-|스킬 수술|skiHeal|1점당 수술 난이도 감소
-|스킬 상술|skiTrade|1점당 거래 패널티 감소
-|스킬 리더쉽|skiLeadership|1점당 부대한계치+5, 부대임금-5%, 부대사기+5%
-|숙련도 한손무기|skiOnehanded|해당 무기 공격속도 증가
-|숙련도 양손무기|skiTwohanded|해당 무기 공격속도 증가
-|숙련도 폴암|skiSpear|해당 무기 공격속도 증가
-|숙련도 투척무기|skiThrow|해당 무기 공격속도 증가
-|숙련도 활|skiBow|해당 무기 공격속도 증가
-|숙련도 석궁|skiCrossbow|해당 무기 공격속도 증가
-|배고픔|hunger|-
-|목마름|thirsty|-
-|피로함|tired|-
+|스킬 당기는힘|skiBowStr|1점당 활공격력+14%|
+|스킬 무기의달인|skiWeaponMaster|1점당 숙련도 한계치+40|
+|스킬 방패술|skiShield|1점당 방패가 받는 피해-8%|
+|스킬 운동능력|skiSpeed|1점당 이동속도 증가|
+|스킬 훈련교관|skiTrainer|1점당 플레이어의 부대원이 받는 경험치가 증가|
+|스킬 설득|skiSpeech|1점당 설득의 성공 확률 증가|
+|스킬 항해|skiSeaDrive|1점당 바다에서의 선박 이동 속도 증가|
+|스킬 수술|skiHeal|1점당 수술 난이도 감소|
+|스킬 상술|skiTrade|1점당 거래 패널티 감소|
+|스킬 리더쉽|skiLeadership|1점당 부대한계치+5, 부대임금-5%, 부대사기+5%|
+|숙련도 한손무기|skiOnehanded|해당 무기 공격속도 증가|
+|숙련도 양손무기|skiTwohanded|해당 무기 공격속도 증가|
+|숙련도 폴암|skiSpear|해당 무기 공격속도 증가|
+|숙련도 투척무기|skiThrow|해당 무기 공격속도 증가|
+|숙련도 활|skiBow|해당 무기 공격속도 증가|
+|숙련도 석궁|skiCrossbow|해당 무기 공격속도 증가|
+|배고픔|hunger|-|
+|목마름|thirsty|-|
+|피로함|tired|-|
 ### 2-2. 건물
 |속성|영문명칭|설명|
 |---|---|---|
