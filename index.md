@@ -64,6 +64,7 @@
 ## 2. 설정 화면
 - <img src="img/tundraSetting.png">
 ## 3. 게임 화면
+- <img src="img/tundraGame.png">
 
 # [ TUNDRA의 구성 요소 ]<a name='4'></a>
 ## 1. 메커니즘
