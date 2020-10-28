@@ -32,21 +32,6 @@
 # 작업 결과물 영상
 
 
-
-- [![](https://1drv.ms/v/s!AjWN4P8tWP_78D-B8UMGoKXMJb_5?e=heRpig)](https://1drv.ms/v/s!AjWN4P8tWP_78D-B8UMGoKXMJb_5?e=heRpig "tundraConceptVideo")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<iframe src="https://onedrive.live.com/embed?cid=FBFF582DFFE08D35&resid=FBFF582DFFE08D35%2114399&authkey=ABepWAGjFT9hrjM" width="320" height="180" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 
