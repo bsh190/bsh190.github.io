@@ -32,5 +32,5 @@
 # 작업 결과물 영상
 
 
-[![Watch the video]()](files/w01.mp4)
+[![Watch the video](files/w01.mp4)](files/w01.mp4)
 
