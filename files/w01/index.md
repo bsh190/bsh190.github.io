@@ -30,6 +30,8 @@
 # 설명: 게임의 시작화면을 만드는 작업입니다.
 
 # 작업 결과물 영상
+
+
 <video width="800" height="480" controls=""><source src="https://onedrive.live.com/download?cid=FBFF582DFFE08D35&amp;resid=FBFF582DFFE08D35%2114399&amp;authkey=ABepWAGjFT9hrjM" type="video/mp4"></source>
 Your browser does not support the video tag.
 </video>
