@@ -34,3 +34,16 @@
 
 [![Watch the video](files/w01.png)](files/w01.mp4)
 
+
+
+
+
+
+
+
+<video controls width="640" height="480">
+    <source src="files/w01.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
+
