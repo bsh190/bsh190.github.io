@@ -32,7 +32,6 @@
 # 작업 결과물 영상
 
 
-[![Watch the video](files/w01.png)](files/w01.mp4)
 
 
 
