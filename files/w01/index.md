@@ -33,7 +33,8 @@
 
 
 
-<hr>
 <div class="video_container"><video controls="controls" allowfullscreen="true" poster="files/w01.png"><source src="files/w01.mp4" type="video/mp4"></video></div>
-<hr>
+
+
+[![Watch the video](files/w01.png)](files/w01.mp4)
 
