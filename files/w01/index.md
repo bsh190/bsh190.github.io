@@ -33,36 +33,7 @@
 
 
 
-video: https://onedrive.live.com/download?cid=FBFF582DFFE08D35&amp;resid=FBFF582DFFE08D35%2114399&amp;authkey=ABepWAGjFT9hrjM
-
-
-
-
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
-    <source src="https://onedrive.live.com/download?cid=FBFF582DFFE08D35&amp;resid=FBFF582DFFE08D35%2114399&amp;authkey=ABepWAGjFT9hrjM" type="video/mp4">
-  </video>
-</figure>
-
-
-
-
-
-
-
-
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://onedrive.live.com/download?cid=FBFF582DFFE08D35&amp;resid=FBFF582DFFE08D35%2114399&amp;authkey=ABepWAGjFT9hrjM" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
-
-
-
-
-
-
-<figure class="video_container"><iframe src="https://onedrive.live.com/download?cid=FBFF582DFFE08D35&amp;resid=FBFF582DFFE08D35%2114399&amp;authkey=ABepWAGjFT9hrjM" frameborder="0" allowfullscreen="true"></iframe></figure>
+- [![](files/w01.mp4)](files/w01.mp4 "tundraConceptVideo")
 
 
 
