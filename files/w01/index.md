@@ -32,6 +32,12 @@
 # 작업 결과물 영상
 
 
-<iframe src="https://onedrive.live.com/embed?cid=FBFF582DFFE08D35&resid=FBFF582DFFE08D35%2114399&authkey=ABepWAGjFT9hrjM" width="320" height="180" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+
+<video controls="controls">
+    <source src="files/w01.mp4" type="video/mp4">
+    Your browser does not support the HTML5 Video element.
+</video>
+
 
 
