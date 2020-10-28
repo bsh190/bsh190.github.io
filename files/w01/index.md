@@ -44,3 +44,7 @@
 <object data="files/w01.mp4" width="400px" height="200px"></object>
 
 
+
+<iframe width="560" height="315" src="files/w01.mp4" frameborder="0" allowfullscreen></iframe>
+
+
