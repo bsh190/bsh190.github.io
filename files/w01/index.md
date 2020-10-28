@@ -32,20 +32,9 @@
 # 작업 결과물 영상
 
 
-<video width="800" height="480" controls=""><source src="https://onedrive.live.com/download?cid=FBFF582DFFE08D35&amp;resid=FBFF582DFFE08D35%2114399&amp;authkey=ABepWAGjFT9hrjM" type="video/mp4"></source>
-Your browser does not support the video tag.
-</video>
-
-
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
     <source src="https://onedrive.live.com/download?cid=FBFF582DFFE08D35&amp;resid=FBFF582DFFE08D35%2114399&amp;authkey=ABepWAGjFT9hrjM" type="video/mp4">
   </video>
 </figure>
-
-
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://onedrive.live.com/download?cid=FBFF582DFFE08D35&amp;resid=FBFF582DFFE08D35%2114399&amp;authkey=ABepWAGjFT9hrjM)
-
-
-!video[title](https://i.imgur.com/vKb2F1B.png)](https://onedrive.live.com/download?cid=FBFF582DFFE08D35&amp;resid=FBFF582DFFE08D35%2114399&amp;authkey=ABepWAGjFT9hrjM){size=10}
 
