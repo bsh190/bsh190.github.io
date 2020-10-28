@@ -34,17 +34,10 @@
 
 
 
-<video controls="controls">
+<div class="video_container">
+  <video controls="controls" allowfullscreen="true" poster="files/w01.png">
     <source src="files/w01.mp4" type="video/mp4">
-    Your browser does not support the HTML5 Video element.
-</video>
-
-
-
-<object data="files/w01.mp4" width="400px" height="200px"></object>
-
-
-
-<iframe width="560" height="315" src="files/w01/files/w01.mp4" frameborder="0" allowfullscreen></iframe>
+  </video> 
+</div>
 
 
