@@ -34,7 +34,7 @@
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
-    <source src="https://onedrive.live.com/download?cid=FBFF582DFFE08D35&amp;resid=FBFF582DFFE08D35%2114399&amp;authkey=ABepWAGjFT9hrjM" type="video/mp4">
+    <source src="files/w01.mp4" type="video/mp4">
   </video>
 </figure>
 
