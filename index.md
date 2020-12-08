@@ -12,11 +12,11 @@
 ### 8. [용어 정리](#8)
 ### 9. [개발 작업](#9)
 ### 10. [1주차 작업 결과](files/w01/index.md)
-### 10. [1주차 작업 결과](files/w01/index.md)
-### 10. [1주차 작업 결과](files/w01/index.md)
-### 10. [1주차 작업 결과](files/w01/index.md)
-### 10. [1주차 작업 결과](files/w01/index.md)
-### 10. [1주차 작업 결과](files/w01/index.md)
+### 10. [2주차 작업 결과](files/w01/index.md)
+### 10. [3주차 작업 결과](files/w01/index.md)
+### 10. [4주차 작업 결과](files/w01/index.md)
+### 10. [5주차 작업 결과](files/w01/index.md)
+### 10. [6주차 작업 결과](files/w01/index.md)
 
 # [ 컨셉 ] <a name='1'></a>
 ## 1. 메인컨셉
